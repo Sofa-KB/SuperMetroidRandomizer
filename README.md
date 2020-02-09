@@ -1,5 +1,14 @@
 # Super Metroid Item Randomizer
 
+## Credits
+
+Link to original randomizer files: https://github.com/tewtal/itemrandomizerweb  
+- total#8207  
+- foosda#0238  
+- Leodox#7931    
+
+*They can be contacted with these usernames on Discord*
+
 ### Information
 
 This is a beta version used for testing new patches and item logic, have fun but expect that things can be broken at times.
